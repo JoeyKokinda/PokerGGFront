@@ -17,7 +17,7 @@ export default function Login() {
                 </div>
                 <div className="actions-row">
                 
-                    <button type="button" className="google-btn">Sign in with Google</button>
+                    <button type="button" src='../public/google.svg' className="google-btn">Sign in with Google</button>
                     <button type="button" className="signup">Sign Up</button>
                 </div>
             </form>
